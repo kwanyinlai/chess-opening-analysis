@@ -16,11 +16,11 @@ under the "StockfishEngine" directory.
 This is a tool built using Java + Swing which allows users to analyse their own chess openings quickly, 
 efficiently and in-mass.
 
-# Installation
+## Installation
 
 The executable can be downloaded [here](https://github.com/kwanyinlai/chess-opening-analysis/releases/tag/v1.0.0) or from the releases page.
 
-# Features
+## Features
 
 This program can be used to play out full chess games, with complete chess logic implemented 
 (including checks, captures, castling, en-passant, pawn promotion, etc.) using the analysis
