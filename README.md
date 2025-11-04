@@ -18,7 +18,7 @@ efficiently and in-mass.
 
 # Installation
 
-The executable can be downloaded [here][https://github.com/kwanyinlai/chess-opening-analysis/releases/tag/v1.0.0] or from the releases page.
+The executable can be downloaded [here](https://github.com/kwanyinlai/chess-opening-analysis/releases/tag/v1.0.0) or from the releases page.
 
 # Features
 
